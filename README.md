@@ -1,6 +1,6 @@
-### Olá pessoal, Chamo-me Blenda seja bemvindo ao meu perfil do GitHub 😃
-Tenho 26 anos e sou formada em engenharia de produção e atualmente estou estudando para ser desenvolvedora web fullstack java jr.
-S
+### Olá pessoal, seja bem-vindo(a) ao meu perfil do GitHub 😃 ,chamo-me Blenda sou formada em engenharia de produção e como a engenharia da-me a possiblidade de escolher várias vertentes a programação foi uma dessas escolhas, atualmente estou estudando para ser desenvolvedora web fullstack java jr. 
+
+
 
 <div>
   <a href="https://github.com/blendagaspar">
