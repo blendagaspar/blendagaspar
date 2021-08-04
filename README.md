@@ -16,6 +16,7 @@
 <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
 <a href="https://postman.com" target="_blank" title="PostMan"><img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/></a> 
 <a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/></a>
+ <td><img align="center" alt="GIT" src="https://camo.githubusercontent.com/22d1116e541b7b380161ed7c77ceb24e5e88a71acbec6d9dae7a5624b23a46fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"></td>   
 </div>
     
   <h2> 🖥️ Front-end </h2> 
@@ -25,7 +26,8 @@
   <a href="https://angular.io" target="_blank" title="Angular"><img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60"/></a>
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"></a>    
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"></a>
+    
 </div>
  </div>   
   
