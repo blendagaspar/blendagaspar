@@ -1,4 +1,4 @@
-### Olá pessoal, seja bem-vindo(a) ao meu perfil do GitHub 😃 ,meu nome é Blenda sou formada em engenharia de produção e como a engenharia da-me a possiblidade de escolher várias vertentes a programação foi uma dessas escolhas, atualmente estou estudando para ser desenvolvedora web fullstack java jr. 
+### Olá pessoal, seja bem-vindo(a) ao meu perfil do GitHub 😃 ,meu nome é Blenda sou formada em engenharia de produção e como a engenharia da-me a possiblidade de escolher várias vertentes a programação foi uma dessas escolhas, atualmente sou  desenvolvedora web fullstack java jr certificada pela Generation. 
 
 
 
